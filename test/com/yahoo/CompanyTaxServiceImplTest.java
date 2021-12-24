@@ -1,13 +1,13 @@
 package com.yahoo;
 
+import com.yahoo.service.CompanyTaxServiceImpl;
+import com.yahoo.service.TaxService;
 import com.yahoo.vo.Contractor;
 import org.junit.Assert;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class CompanyTaxServiceImplTest {
     Contractor contractor = new Contractor();

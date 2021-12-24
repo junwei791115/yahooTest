@@ -1,7 +1,5 @@
 package com.yahoo;
 
-import java.util.Arrays;
-
 public enum ContractorType {
     COMPANY("公司","company"), PERSON("個人","person");
 

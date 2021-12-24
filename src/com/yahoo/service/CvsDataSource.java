@@ -1,5 +1,6 @@
-package com.yahoo;
+package com.yahoo.service;
 
+import com.yahoo.ContractorType;
 import com.yahoo.vo.Contractor;
 
 import java.io.BufferedReader;

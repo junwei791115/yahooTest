@@ -1,4 +1,4 @@
-package com.yahoo;
+package com.yahoo.service;
 
 import com.yahoo.vo.Contractor;
 

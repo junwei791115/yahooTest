@@ -1,4 +1,4 @@
-package com.yahoo;
+package com.yahoo.service;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
